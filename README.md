@@ -19,24 +19,7 @@
 
 ---
 
-## 💼 Featured Projects
 
-### 🔊 [SpotifyMoodMixer](https://github.com/your-username/SpotifyMoodMixer)  
-A music recommendation system that uses user mood and preferences to generate Spotify playlists  
-**Stack:** ASP.NET Core, React, Spotify API, AI Mood Detection
-
-### 📚 [StudentTopicAPP](https://github.com/your-username/StudentTopicAPP)  
-Manage topics and subtopics with a single-page interface using ASP.NET Core MVC and SQL  
-**Features:** Add/Edit/Delete topics, dynamic subtopic dropdowns, real-time updates  
-
-### 🛡️ [Smart AI Proctoring System](https://github.com/your-username/AIProctoring)  
-An intelligent invigilation system using Python, OpenCV & Tkinter to detect cheating in exams  
-**Includes:** Face recognition, object detection, activity logging  
-  
-
-> *Explore more on my repositories tab 🔍*
-
----
 
 ## 📊 GitHub Stats
 
