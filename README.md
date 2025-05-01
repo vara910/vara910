@@ -19,20 +19,13 @@
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-![Danaboina's GitHub stats](https://github.com/vara910)
-
-
 ---
 
 ## 📫 Let's Connect
 
 - ✉️ Email: [varaprasadmudiraj587@gmail.com](mailto:varaprasadmudiraj587@gmail.com)  
 - 🔗 [LinkedIn](www.linkedin.com/in/vara-prasad-82b935274)  
-- 🌐 Portfolio: [Working on it] 
+- 🌐 Portfolio: Working on it.....
 
 ---
 
