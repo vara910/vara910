@@ -32,9 +32,7 @@ Manage topics and subtopics with a single-page interface using ASP.NET Core MVC 
 ### 🛡️ [Smart AI Proctoring System](https://github.com/your-username/AIProctoring)  
 An intelligent invigilation system using Python, OpenCV & Tkinter to detect cheating in exams  
 **Includes:** Face recognition, object detection, activity logging  
-
-### 📖 [Adaptive Learning Tool](https://github.com/your-username/AdaptiveLearning)  
-A smart educational tool to support students with dyslexia using personalized learning paths  
+  
 
 > *Explore more on my repositories tab 🔍*
 
@@ -43,7 +41,7 @@ A smart educational tool to support students with dyslexia using personalized le
 ## 📊 GitHub Stats
 
 ![Danaboina's GitHub stats](https://github.com/vara910)
-![Top Languages](https://github.com/vara910))
+
 
 ---
 
@@ -51,7 +49,7 @@ A smart educational tool to support students with dyslexia using personalized le
 
 - ✉️ Email: [varaprasadmudiraj587@gmail.com](mailto:varaprasadmudiraj587@gmail.com)  
 - 🔗 [LinkedIn](www.linkedin.com/in/vara-prasad-82b935274)  
-- 🌐 Portfolio: [Coming Soon]  
+- 🌐 Portfolio: [Working on it] 
 
 ---
 
