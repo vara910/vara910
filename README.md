@@ -24,7 +24,7 @@
 ## 📫 Let's Connect
 
 - ✉️ Email: [varaprasadmudiraj587@gmail.com](mailto:varaprasadmudiraj587@gmail.com)  
-- 🔗 [LinkedIn](www.linkedin.com/in/vara-prasad-82b935274)  
+- 🔗 Linkedin: [LinkedIn](www.linkedin.com/in/vara-prasad-82b935274)  
 - 🌐 Portfolio: Working on it.....
 
 ---
