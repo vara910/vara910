@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Danaboina Varaprasad!
+# 👋 Hi there, I'm Varaprasad!
 
 🎓 **Engineering Graduate**  
 💻 Aspiring **Software Engineer** with a strong interest in **Artificial Intelligence**, **Full Stack Development**, and building **innovative, real-world solutions**  
