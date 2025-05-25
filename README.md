@@ -12,9 +12,8 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-![Java](https://img.shields.io/badge/-Java-blue?logo=java)  ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white) 
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-blue?logo=java)  ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
 **Database & Tools:**  
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
