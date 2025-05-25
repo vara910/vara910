@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Danaboina Varaprasad!
 
-🎓 Final year engineering student at **CMR College of Engineering and Technology**  
-💻 Aspiring **Software Engineer** | Passionate about **AI**, **Full Stack Development**, and **Innovative Solutions**  
-🚀 Currently an intern at **Capgemini**, actively building real-world projects  
+🎓 **Engineering Graduate**  
+💻 Aspiring **Software Engineer** with a strong interest in **Artificial Intelligence**, **Full Stack Development**, and building **innovative, real-world solutions**  
+🚀 Currently interning at **Capgemini**, gaining hands-on experience in industry-grade projects  
+🔧 Committed to continuous learning, clean code, and impactful technology  
+
 
 
 ---
