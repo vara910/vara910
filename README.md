@@ -13,18 +13,26 @@
 
 **Languages & Frameworks:**  
 
-![Java](https://img.shields.io/badge/-Java-blue?logo=java)  ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Optimizely CMS](https://img.shields.io/badge/-Optimizely_CMS-0037FF?logo=optimizely&logoColor=white)
 
 **Database & Tools:**  
 
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
 
 **Cloud & DevOps:**  
 
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 
 ---
