@@ -15,6 +15,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-blue?logo=java)  ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white)  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Optimizely CMS](https://img.shields.io/badge/-Optimizely_CMS-0037FF?logo=optimizely&logoColor=white)
 
 **Database & Tools:**  
 
